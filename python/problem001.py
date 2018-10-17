@@ -8,3 +8,13 @@
 #10 dan kiçik  3 və 5-ə bölünən natural ədədlər 3,5 , 6, 9 dur.
 #Bu ədədlərin cəmi 23 edir.
 #1000 dın kiçik 3 və 5 ə bölünən natural ədədlərin cəmini tap.
+
+def sum():
+	result=0
+	for x in range(1000):
+		if (x%3==0 or x%5==0):
+			result+=x
+	return result
+
+print(sum())
+
