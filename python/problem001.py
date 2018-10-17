@@ -4,7 +4,6 @@
 #Find the sum of all the multiples of 3 or 5 below 1000.
 
 #    Tərcümə
-
 #10 dan kiçik  3 və 5-ə bölünən natural ədədlər 3,5 , 6, 9 dur.
 #Bu ədədlərin cəmi 23 edir.
 #1000 dın kiçik 3 və 5 ə bölünən natural ədədlərin cəmini tap.
