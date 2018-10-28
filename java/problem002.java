@@ -13,9 +13,7 @@ public class problem002 {
 			a=b;
 			b=temp+a;
 		}
-
-
-
+		
 		System.out.println(sum);
 	}
 }
